@@ -1,13 +1,12 @@
 # PyTorch_PPO_InvertedPendulumControl
-Implemented a reinforcement learning solution using PyTorch and TorchRL to solve the InvertedDoublePendulum-v4 environment from OpenAI Gym. Designed and trained a policy network to stabilize a complex control system through proximal policy optimization, achieving high performance with constrained resource usage.
-
-
 # PyTorch Proximal Policy Optimization (PPO) Implementation
 
 ![PyTorch Logo](https://pytorch.org/assets/images/pytorch-logo.png)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/ppo-pytorch/blob/main/ppo_cartpole.ipynb)
 
-This repository contains a clean, well-documented implementation of the Proximal Policy Optimization (PPO) algorithm in PyTorch. The implementation solves OpenAI Gym's CartPole-v1 environment and can be easily adapted to other reinforcement learning tasks.
+
+
+This repository contains a clean, well-documented implementation of a reinforcement learning solution of the Proximal Policy Optimization (PPO) algorithm in PyTorch and TorchRL to solve the InvertedDoublePendulum-v4 environment from OpenAI Gym. Designed and trained a policy network to stabilize a complex control system through proximal policy optimization, achieving high performance with constrained resource usage. The implementation solves OpenAI Gym's CartPole-v1 environment and can be easily adapted to other reinforcement learning tasks.
+
 
 ## Table of Contents
 - [Algorithm Overview](#algorithm-overview)
