@@ -151,15 +151,6 @@ class CustomActorCritic(nn.Module):
         return self.actor(features), self.critic(features)
 ```
 
-## Contributing
-Contributions are welcome! Here's how to get started:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a pull request
-
-Please ensure your code follows PEP 8 style guidelines and includes appropriate documentation.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
