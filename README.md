@@ -39,24 +39,6 @@ This implementation follows the PPO algorithm as described in the original paper
 - 🎚️ Hyperparameter tuning support
 - 📊 TensorBoard logging (optional)
 
-## Installation
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/ppo-pytorch.git
-cd ppo-pytorch
-```
-
-2. Create and activate a virtual environment (recommended):
-```bash
-python -m venv venv
-source venv/bin/activate  # Linux/MacOS
-venv\Scripts\activate     # Windows
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
 
 Requirements:
 - Python 3.7+
